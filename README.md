@@ -6,6 +6,7 @@
 * Co-author and tutor of [Data Engineer](https://otus.ru/lessons/data-engineer/) & [Analytics Engineer](https://otus.ru/lessons/dwh/) @ OTUS platform
 * Actively blogging & sharing my experience @ [Telegram](https://t.me/enthusiastech) & [Habr.com](https://habr.com/ru/users/kzzzr/posts/)
 * [CV](https://drive.google.com/file/d/1EspHV2FjZ6_i5fkZp_G1sBbHoQl0qfZZ/view?usp=sharing) is available [here](https://drive.google.com/file/d/1EspHV2FjZ6_i5fkZp_G1sBbHoQl0qfZZ/view?usp=sharing)
+* 📩 Direct message me on Telegram [@kzzzr](https://t.me/kzzzr)
 
 
 <!--
