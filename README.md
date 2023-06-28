@@ -1,9 +1,9 @@
-* 8+ years hands on experience with **Data Analytics**: DWH, ELT, BI, ML
-* Interested in: Data Modeling, BI, DevOps & CI, Data Quality, MLOps, Performance Tuning, Geospatial
-* Experienced with **Analytics Engines**: Redshift, Clickhouse, Databricks, Snowflake, Greenplum, Vertica, Teradata
-* Preferred stack: **dbt** + **Looker**
+* 8+ years hands on experience with **Data Analytics**: DWH, BI, ELT, ML
+* Experienced with AWS Redshift, Snowflake, Clickhouse, Databricks, Greenplum, Vertica, Teradata
+* Preferred stack: **Snowflake** + **dbt** + **Looker**
+* Interested in: Data Modeling, BI, Semantic layer (Metrics), DevOps & CI, Data Quality & Observability
 * Strong team player with consulting and reporting skills
-* Co-author and tutor of [Data Engineer](https://otus.ru/lessons/data-engineer/) & [Analytics Engineer](https://otus.ru/lessons/dwh/) @ OTUS platform
+* Author and tutor of [Analytics Engineer](https://github.com/kzzzr/analytics-engineer) course
 * Actively blogging & sharing my experience @ [Telegram](https://t.me/enthusiastech) & [Habr.com](https://habr.com/ru/users/kzzzr/posts/)
 * [CV](https://drive.google.com/file/d/1EspHV2FjZ6_i5fkZp_G1sBbHoQl0qfZZ/view?usp=sharing) is available [here](https://drive.google.com/file/d/1EspHV2FjZ6_i5fkZp_G1sBbHoQl0qfZZ/view?usp=sharing)
 * 📩 Direct message me on Telegram [@kzzzr](https://t.me/kzzzr)
