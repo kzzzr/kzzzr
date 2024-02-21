@@ -1,7 +1,7 @@
-* 8+ years hands on experience with **Data Analytics**: DWH, BI, ELT, ML
-* Experienced with AWS Redshift, Snowflake, Clickhouse, Databricks, Greenplum, Vertica, Teradata
-* Preferred stack: **Snowflake** + **dbt** + **Looker**
-* Interested in: Data Modeling, BI, Semantic layer (Metrics), DevOps & CI, Data Quality & Observability
+* 10+ years hands on experience with **Data Analytics**: DWH, BI, ELT, ML
+* Experienced with modern databases: Redshift, Snowflake, Clickhouse, Databricks, Greenplum
+* I prefer code based and scalable solutions: **Snowflake** + **dbt** + **Looker**
+* Interested in: Data Modeling (T), Data Integration (EL), Semantic layer (Metrics) + BI, DevOps + DataOps
 * Strong team player with consulting and reporting skills
 * Author and tutor of [Analytics Engineer](https://github.com/kzzzr/analytics-engineer) course
 * Actively blogging & sharing my experience @ [Telegram](https://t.me/enthusiastech) & [Habr.com](https://habr.com/ru/users/kzzzr/posts/)
