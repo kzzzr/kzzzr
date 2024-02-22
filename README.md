@@ -4,7 +4,7 @@
 * Interested in: Data Modeling (T), Data Integration (EL), Semantic layer (Metrics) + BI, DevOps + DataOps
 * Strong team player with consulting and reporting skills
 * Author and tutor of [Analytics Engineer](https://github.com/kzzzr/analytics-engineer) course
-* Actively blogging & sharing my experience @ [Telegram](https://t.me/enthusiastech) & [Habr.com](https://habr.com/ru/users/kzzzr/posts/)
+* Actively blogging & sharing my experience @ [Telegram](https://t.me/data_apps) & [Habr.com](https://habr.com/ru/users/kzzzr/posts/)
 * [CV](https://drive.google.com/file/d/1EspHV2FjZ6_i5fkZp_G1sBbHoQl0qfZZ/view?usp=sharing) is available [here](https://drive.google.com/file/d/1EspHV2FjZ6_i5fkZp_G1sBbHoQl0qfZZ/view?usp=sharing)
 * 📩 Direct message me on Telegram [@kzzzr](https://t.me/kzzzr)
 
